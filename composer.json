@@ -1,0 +1,13 @@
+{
+    "name": "derklinge/tesseract-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sebastian Klinge",
+            "email": "github@derklinge.de"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12"
+    }
+}
