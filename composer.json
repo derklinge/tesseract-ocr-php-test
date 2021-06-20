@@ -9,5 +9,10 @@
     ],
     "require": {
         "thiagoalessio/tesseract_ocr": "^2.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
     }
 }
